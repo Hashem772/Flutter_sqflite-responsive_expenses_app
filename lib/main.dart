@@ -8,13 +8,7 @@ import './widgets/chart.dart';
 import './models/transaction.dart';
 
 void main() {
-//  WidgetsFlutterBinding.ensureInitialized();
-//  SystemChrome.setPreferredOrientations(
-//    [
-//      DeviceOrientation.portraitUp,
-//      //DeviceOrientation.portraitDown
-//    ]
-//  );
+
   runApp(MyApp());
 }
 
